@@ -6,3 +6,8 @@
 2. 可[参考](https://telecom.altanai.com/2015/09/25/xmpp-client-server-setup-and-programming/)进行安装
 3. 根据Openfire服务修改ConnectManager中的mConnectConfig参数
 4. 运行即可
+
+### 当前进度
+1. 实现登录
+2. 获取好友列表
+3. 点对点聊天
